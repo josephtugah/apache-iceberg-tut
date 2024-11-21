@@ -9,8 +9,6 @@
 
 ## What's included
 
-The repo is to supplement the [youtube video](https://youtu.be/iGvj1gjbwl0) on Iceberg in AWS.
-
 ## Set up
 
 1. Run the cloud formation template. This will create;
