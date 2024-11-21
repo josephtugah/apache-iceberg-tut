@@ -6,7 +6,6 @@
 - [Set Up Work](#set-up)
 - [Main Tutorial](#main-tutorial)
 - [Useful Links](#useful-link)
-- [Creators](#creators)
 
 ## What's included
 
